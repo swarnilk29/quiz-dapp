@@ -27,3 +27,6 @@ Decentralized quiz application using Solidity, Hardhat, Web3.js/ethers.js, and N
 | Smart Contract | Solidity, Hardhat |
 | Network | Ethereum (Sepolia Testnet) |
 | Wallet | MetaMask |
+
+Update the contract_address.json file with your deployed contract address
+Craete the .env file 
